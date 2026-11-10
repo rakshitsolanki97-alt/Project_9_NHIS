@@ -1,7 +1,0 @@
-
-.env
-venv/
-__pycache__/
-*.pyc
-API key.txt
-News API key.txt
