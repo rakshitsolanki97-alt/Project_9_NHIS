@@ -1,0 +1,9 @@
+
+streamlit
+newsapi-python
+python-dotenv
+requests
+beautifulsoup4
+langchain
+langchain-core
+langchain-google-genai
